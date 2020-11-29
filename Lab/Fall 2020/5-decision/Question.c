@@ -11,35 +11,35 @@ int main() {
 	scanf("%d", &goal);
 	
 	while (player_score < goal && bot_score < goal) {
-		//print the scores at the top of the window
+		// print the scores at the top of the window
 		printf("Your score : %d\t\tBot score : %d\n\n", player_score, bot_score);
 
-		//get player choice
+		// get player choice
 		printf("Press 1 for Rock, Press 2 for Paper, Press 3 for Scissors\n");
 		scanf("%d", &player_choice);
 
-		//make a random choice for the computer
+		// make a random choice for the computer
 		srand(time(NULL));
 		bot_choice = rand() % 3 + 1;
 
 		// Update players' scores with correct conditions.
         // 
         // if (/* condition */) {
-		//      Write your code hear
+		//      Write your code here
 		// }
 		// else if (/* condition */) {
-        //      Write your code hear
+        //      Write your code here
         // }
         // ...
 
-		//clear the console
+		// clear the console
 		Sleep(2000);
 		system("cls");
 	}
 
-	//print final result
+	// print final result
 	printf("Your score : %d\t\tBot score : %d\n\n", player_score, bot_score);
 
     // Check who is the winner and congrats him/her/it!!
-	// Write your code hear
+	// Write your code here
 }
