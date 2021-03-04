@@ -21,4 +21,5 @@ these manuals and slides are matured in these years and will gather here.
 - [Ali Nazari](https://github.com/AliNazariii)
 - [Matin Tavakoli](https://github.com/MatinTavakoli)
 - [Zahra Salarian](https://github.com/zahrasalarian)
+- [Bardia Ardakanian](https://github.com/bardia-ardakanian)
 - [Mina Beiki](https://github.com/mina-beiki)
