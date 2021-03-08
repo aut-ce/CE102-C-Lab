@@ -1,7 +1,7 @@
 # C Lab
 ## Introduction - Part 1
 
-#### Links Used in file
+#### Links used in file
 
 Page 26: [nandgame](https://nandgame.com/)
 

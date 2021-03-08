@@ -1,7 +1,7 @@
 # C Lab
 ## Introduction - Part 2
 
-#### Links Used in file
+#### Links used in file
 
 Page 10: [Studio code](https://studio.code.org/courses)
 
