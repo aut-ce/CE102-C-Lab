@@ -1,7 +1,7 @@
 # C Lab
 ## Pseudocode
 
-#### Links Used in file
+#### Links used in file
 
 Page 5: [Blockly](https://blockly-demo.appspot.com/static/demos/code/index.html)
 
