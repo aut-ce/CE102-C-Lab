@@ -1,4 +1,3 @@
-
 #include <stdlib.h>
 #include <math.h>
 
@@ -41,7 +40,13 @@ int Main() {
     }
     else if(op == '%') {
         // the part that calculates the remainder of a number over another number
-        result = num1 % num2;
+        if ((num1 - (int)num1 == 0) && (num2 - (int)num2) == 0) {
+            result = (int)num1 % (int)num2;
+        }
+        else {
+            printf("incorrect input");
+            return 0;
+        }
     }
     else if(op == 's') {
         // the part that calculates sine of an angle
@@ -65,6 +70,9 @@ int Main() {
     }
     else if(op == 't') {
         printf("result : tan(%d/%d) = %d", num1, num2, result);
+    }
+    else if(op == '%') {
+        printf("result : %.lf %% %.lf = %.lf", num1, num2, result);
     }
     else {
         printf("result : %d %c %d = %d", num1, op, num2, result);
