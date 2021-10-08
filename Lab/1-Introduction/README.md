@@ -27,6 +27,8 @@ Page 38: [Tutorials Point](https://www.tutorialspoint.com/index.html)
 
 Page 39: [Geeks for Geeks](https://www.geeksforgeeks.org/)
 
+Page 39: [Edx](https://www.edx.org/)
+
 Page 39: [StackOverFlow](https://stackoverflow.com/)
 
 Page 39: [GitLab](https://github.com/)
