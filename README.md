@@ -8,8 +8,6 @@ In 2017 there was a paradigm shift in the introduction to programming labs, to c
 Since then, every year teaching-assistants and lab instructors gather new materials as workshop material.
 These manuals and slides are matured in these years and will gather here.
 
----
-
 ## Syllabus
 
 [1- Introduction to computer](./Lab/1-Introduction)
@@ -37,8 +35,6 @@ These manuals and slides are matured in these years and will gather here.
 [12- Struct](./Lab/12-Struct)
 
 [13- File](./Lab/13-File)
-
----
 
 ## Contributers
 
