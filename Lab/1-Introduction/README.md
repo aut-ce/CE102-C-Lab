@@ -1,7 +1,11 @@
 # C Lab
 ## Introduction - Part 1
 
-#### Links used in file
+In this agenda, you will learn about the most important parts of the computer. You'll also gain a basic insight into how computers work, which can help you take the first steps to learn programming.
+
+Furthermore, there are useful tips and links that you can refer to it if needed.
+
+## Links used in file
 
 Page 26: [nandgame](https://nandgame.com/)
 
