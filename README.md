@@ -1,12 +1,44 @@
 # CE102-C-Lab
 
+Fundamentals of programming laboratory materials in AUT CE.
+
 ## Intoduction
 
 In 2017 there was a paradigm shift in the introduction to programming labs, to change its syllabus as a programming workshop.
 Since then, every year teaching-assistants and lab instructors gather new materials as workshop material.
 These manuals and slides are matured in these years and will gather here.
 
+---
+
 ## Syllabus
+
+[1- Introduction to computer](./Lab/1-Introduction)
+
+[2- Introduction to programming](./Lab/2-Introduction)
+
+[3- Pseudocode](./Lab/3-pseudocode)
+
+[4- Pseudocode_input_output](./Lab/4-pseudocode_input_output)
+
+[5- Math](./Lab/5-math)
+
+[6- Decision](./Lab/6-decision)
+
+[7- Loop](./Lab/7-loop)
+
+[8- Function](./Lab/8-function)
+
+[9- Array](./Lab/9-Array)
+
+[10- Pointer_part1](./Lab/10-Pointer_part1)
+
+[11- Pointer_part2](./Lab/11-Pointer_part2)
+
+[12- Struct](./Lab/12-Struct)
+
+[13- File](./Lab/13-File)
+
+---
 
 ## Contributers
 
