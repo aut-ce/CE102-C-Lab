@@ -10,23 +10,23 @@ These manuals and slides are matured in these years and will gather here.
 
 ## Syllabus
 
-[1- Introduction to computer](./Lab/1-Introduction)
+[01- Introduction to computer](./Lab/01-Introduction)
 
-[2- Introduction to programming](./Lab/2-Introduction)
+[02- Introduction to programming](./Lab/02-Introduction)
 
-[3- Pseudocode](./Lab/3-pseudocode)
+[03- Pseudocode](./Lab/03-pseudocode)
 
-[4- Pseudocode_input_output](./Lab/4-pseudocode_input_output)
+[04- Pseudocode_input_output](./Lab/04-pseudocode_input_output)
 
-[5- Math](./Lab/5-math)
+[05- Math](./Lab/05-math)
 
-[6- Decision](./Lab/6-decision)
+[06- Decision](./Lab/06-decision)
 
-[7- Loop](./Lab/7-loop)
+[07- Loop](./Lab/07-loop)
 
-[8- Function](./Lab/8-function)
+[08- Function](./Lab/08-function)
 
-[9- Array](./Lab/9-Array)
+[09- Array](./Lab/09-Array)
 
 [10- Pointer_part1](./Lab/10-Pointer_part1)
 
@@ -75,3 +75,7 @@ These manuals and slides are matured in these years and will gather here.
 - [Tanya JavaherPour](https://github.com/tanya-jp)
 - [Mohammad Choupan](https://github.com/mohamadch91)
 - [Negin Kheirmand](https://github.com/neginkheirmand)
+
+
+### Fall 2023
+- [Mehrshad Khansarian](https://github.com/mehrshad-kh)
